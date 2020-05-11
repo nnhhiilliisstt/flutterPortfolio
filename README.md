@@ -1,8 +1,8 @@
 
-## Portfolio Website Using Flutter Web
+# Portfolio Website Using Flutter Web
 A portfolio website built using flutter for web.
 
-# Generating the Release Build
+## Generating the Release Build
 To generate the release build, run
 flutter build web
 This should output your release build inside the build/web folder.
