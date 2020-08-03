@@ -1,6 +1,6 @@
 
 # Portfolio Website Using Flutter Web
-A portfolio website built using flutter web(dark mode enabled).
+A portfolio website built using flutter web
 
 ## Generating the Release Build
 To generate the release build, run <b>flutter build web</b><br>
