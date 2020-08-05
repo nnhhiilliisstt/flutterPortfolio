@@ -26453,7 +26453,7 @@ T.Gz.prototype={
 ld:function(){var s=0,r=P.al(t.bs),q,p
 var $async$ld=P.af(function(a,b){if(a===1)return P.ai(b,r)
 while(true)switch(s){case 0:s=3
-return P.ay(G.aa6("https://adityadroid-medium.herokuapp.com/@adityadroid"),$async$ld)
+return P.ay(G.aa6("https://adityadroid-medium.herokuapp.com/@kumaraditya8894"),$async$ld)
 case 3:p=b
 if(p.b===200){q=J.kK(J.b7(C.ba.dF(0,C.an.dF(0,p.x)),"response"),new T.GA(),t.mQ).di(0)
 s=1
@@ -26636,7 +26636,7 @@ q=s.c
 return R.Xx(!1,!0,V.ZS(M.dH(r,T.op(H.b([new U.li(M.a0n(r,r,new D.lL(C.c.O("https://miro.medium.com/fit/c/700/300/",q.fy.b.a),1)),r,r,r),new T.bW(r,16,r,r),L.cO(q.e,K.ax(a).y2.f,r,r),new T.bW(r,8,r,r),L.cO(q.fx.a,K.ax(a).y2.x,r,r)],t.t),C.db,C.b_,C.cK),r,r,r,r,r,new V.aI(16,16,16,16),r,r),new V.aI(16,p,16,p)),r,!0,r,r,r,r,r,r,r,r,r,new X.GZ(s),r)},
 gl:function(a){return this.e}}
 X.GZ.prototype={
-$0:function(){return C.W.f7(window,C.c.O("http://www.medium.com/@adityadroid/",this.a.c.y1),"adityadroid")},
+$0:function(){return C.W.f7(window,C.c.O("https://medium.com/@kumaraditya8894",this.a.c.y1),"adityadroid")},
 $S:7}
 Z.m1.prototype={
 G:function(a){var s,r=null,q=F.bU(a,!1).a,p=F.bU(a,!1).a,o=this.c
