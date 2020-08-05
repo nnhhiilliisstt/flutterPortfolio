@@ -1,7 +1,7 @@
 class Constants{
   static const BLOG_API = 'https://adityadroid-medium.herokuapp.com/@adityadroid';
   static const MEDIUM_IMAGE_CDN = 'https://miro.medium.com/fit/c/700/300/';
-  static const BLOG_URL = 'http://www.medium.com/@adityadroid/';
+  static const BLOG_URL = 'https://medium.com/@kumaraditya8894';
   static const PROFILE_MEDIUM = 'https://medium.com/@kumaraditya8894';
   static const PROFILE_LINKEDIN = 'https://www.linkedin.com/in/kumar-aditya-77a2b4194/';
   static const PROFILE_FACEBOOK = 'https://www.facebook.com/adityakomaar/';
